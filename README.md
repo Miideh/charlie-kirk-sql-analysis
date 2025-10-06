@@ -1,2 +1,1 @@
-# sql-twitter-data-analysis
-SQL Analysis of Charlie Kirk Twitter Dataset using Google Colab
+Analyzing the Charlie Kirk Twitter dataset using SQL and Python (Google Colab)
