@@ -43,7 +43,6 @@ It demonstrates how SQL-style querying can be applied to real-world social media
 | Top Performing Tweets | Identify tweets with the highest likes and retweets |
 | Monthly Trends | Average engagement per month |
 | Hourly Trends | Best posting hours based on engagement |
-| Keyword Analysis | Impact of specific terms such as “America” and “Trump” |
 | Retweet-to-Like Ratio | Engagement efficiency comparison |
 | Tweet Length | Relationship between tweet length and performance |
 
